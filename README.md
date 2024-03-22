@@ -3,8 +3,11 @@
 ## Aim
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
+
 ii) Display the video 
+
 iii) Display the video by resizing the window
+
 iv) Rotate and display the video
 
 ## Software Used
@@ -26,7 +29,7 @@ End the program and close the output video window by pressing 'q'.
 
  Developed By: Shanmathi S
  
- Register No: 21
+ Register No: 212222100049
 
 ### i) Write the frame as JPG file
 ```
